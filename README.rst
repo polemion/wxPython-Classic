@@ -1,5 +1,5 @@
 ==================
-wxPython "Classic" release mirror, for "Wrye Mash - Polemos fork"
+wxPython "Classic" mirror, for "Wrye Mash - Polemos fork"
 ==================
 
 This is a fork of the source tree for wxPython, "Classic" or legacy verson.
